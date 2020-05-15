@@ -1,6 +1,9 @@
 #############
 data/
 apex/
+cache_dir/
+outputs/
+runs/
 
 
 #############
